@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de1118de-aa3a-4261-9cad-b6e5bc94d9f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/simple_test_ground.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/simple_test_ground.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript_the_good_parts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/for_i_missing_terminal_statement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/simple_script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

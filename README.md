@@ -38,6 +38,7 @@ Java types are block scoped.
 When var is used to define variables inside a function, the variables are scoped to that function.
 
 ```java
+//    Java code
     class A {
         {
             int x = 8;
@@ -48,6 +49,7 @@ When var is used to define variables inside a function, the variables are scoped
     }
 ```
 ```JS
+// JS code
     {
         var x = 8;
     }
@@ -106,6 +108,7 @@ The expression can return a number or a String.
 - Infinity
 
 #### Operator Precedence
+<pre>
 . [] ()
 delete new typeof
 Unary operators + -
@@ -115,4 +118,4 @@ Unary operators + -
 === !== 
 && || Logical AND/OR
 ?: Ternary
-
+</pre>
